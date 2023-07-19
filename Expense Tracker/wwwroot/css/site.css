@@ -354,3 +354,13 @@ img.profile-pic {
     .widget.chart {
         padding: 5px;
     }
+
+
+
+/* Settings */
+.user-box{
+    height: auto;
+    background-color: rgb(16, 16, 16);
+    color: #fff;
+    border-radius: 15px;
+}
