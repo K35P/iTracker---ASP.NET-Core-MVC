@@ -20,7 +20,8 @@ html {
 
 body {
     margin-bottom: 60px;
-    background-color: black;
+    background: rgba(14, 14, 14, 1.0);
+    background: radial-gradient(at center, rgba(14, 14, 14, 1.0), rgba(1, 1, 1, 1.0));
     color: #fff;
     overflow: hidden;
 }
